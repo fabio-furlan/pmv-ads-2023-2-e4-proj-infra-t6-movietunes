@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# MovieTunes
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+` Projeto: Desenvolvimento de uma Aplicação Distribuída `
 
-`SEMESTRE`
+`  Quarto Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 

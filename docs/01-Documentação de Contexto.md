@@ -1,6 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+ Desde a primeira exibição de cinema, em 1895, pelos irmãos Lumière, até o momento atual a trilha sonora se torna indispensável. Justamente por trazer intensidade para as cenas, criar memórias afetivas e assim advertir o telespectador. “A nossa percepções sonoras sempre vem acompanhada de uma percepções visuais e de outras percepções que são fornecidas pelos nossos sentidos”, pontua o professor Fábio Cintra, do Departamento de Música da Escola de Comunicações e Artes da USP.
+ Sendo assim, a trilha sonora integra com a própria narrativa cinematográfica. Isto é, se você mudar a trilha sonora de um filme, você basicamente está mudando o filme. Uma trilha sonora pode reiterar emoções, ela tem o poder de transcender o quadro do audiovisual; pode falar de coisas que não estão lá, ela pode negar, inclusive, o que a gente está vendo na tela e isso vai criando sentidos diversos. Deste modo, é possível afirmar que as trilhas sonoras compõem as emoções e as memórias enquanto assistimos a um filme. 
+ Diante de tais análises, torna-se necessário uma ferramenta que auxilie os amantes de filmes a encontrar as trilhas sonoras dos filmes com mais facilidade.
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.

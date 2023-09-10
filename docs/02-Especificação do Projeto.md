@@ -44,23 +44,41 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Inicialmente, o aplicativo terá uma tela principal com dois botões : Um para cadastro e outro para entrar no aplicativo . Após o login , o usuário visualiza os filmes listados por gênero e também os filmes mais vistos dos últimos tempos. Ao clicar no filme , é possível visualizar o poster e o trailer . Além disso, estará descrito informações do filme. Abaixo das informações , estará os campos de escreva seu comentário, onde será possível também apagar o que foi comentado. Também haverá um campo com a descrição da trilha sonora deste filme. 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Por se  tratar de um projeto acadêmico, poderá haver mudanças na configuração do Sistema, a fim de melhorar a usabilidade e entendimento  do aplicativo para o usuário. A forma da disposição e conecção entre as informações também dependerá da experiência e limitações do grupo . 
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Início do cadastro
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
-![Processo 1](img/02-bpmn-proc1.png)
+![docs/img/Captura de tela 2023-09-10 092121.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Captura%20de%20tela%202023-09-10%20092121.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Realizar um comentário no filme
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
-![Processo 2](img/02-bpmn-proc2.png)
+![docs/img/Captura de tela 2023-09-10 092328.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Captura%20de%20tela%202023-09-10%20092328.png)
+
+### Processo 3 – Tela Incial para ver Informações sobre o filme e ver os filmes por gênero e classificação 
+
+
+![docs/img/Captura de tela 2023-09-10 092518.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Captura%20de%20tela%202023-09-10%20092518.png)
+
+### Processo 4 – Avaliar por estrelas
+
+
+![docs/img/Captura de tela 2023-09-10 092720.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Captura%20de%20tela%202023-09-10%20092720.png)
+
+### Processo 5 – Ver pôster do filme 
+
+
+![docs/img/Captura de tela 2023-09-10 092720.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Captura%20de%20tela%202023-09-10%20092720.png)
+
+### Processo 6 – Visualizar trilha sonora do filme 
+
+
+![docs/img/Captura de tela 2023-09-10 093120.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Captura%20de%20tela%202023-09-10%20093120.png)
 
 ## Indicadores de Desempenho
 
@@ -152,22 +170,21 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+Os nomes das pessoas das respectivas funções abaixo são de maneira fictícia. Por se tratar de um projeto acadêmico , ele é realizado por todos os alunos. Os nomes das tarefass são de acordo com as orientações de  Projeto descritas no Canvas e foram utilizadas de maneira fictícia para organizar o projeto.
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
+![docs/img/Captura de tela 2023-09-09 193607.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Captura%20de%20tela%202023-09-09%20193607.png)
 
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
+O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. O gráfico abaixo foi realizado seguindo a ordem cornológica do projeto. As tarefas são dispostas de acordo com o projeto acadêmico , como descrito anteriormente. 
 
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+![docs/img/Captura de tela 2023-09-05 203831.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Captura%20de%20tela%202023-09-05%20203831.png)
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Feito de acordo com as mesmas informações descritas acima. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
+![docs/img/Captura de tela 2023-09-05 210116.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Captura%20de%20tela%202023-09-05%20210116.png)
 
 ## Gestão de Orçamento
+O orçamento foi feito baseado em pesquisas na internet sobre os custos de Hardware e Software. Este orçamento é de maneira fictícia.
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
-
-![Orçamento](img/02-orcamento.png)
+![docs/img/Captura de tela 2023-09-05 204301.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Captura%20de%20tela%202023-09-05%20204301.png)

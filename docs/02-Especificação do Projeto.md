@@ -97,8 +97,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O software deve apresentar uma tela de cadastro| MÉDIA | 
+|RF-002|O software deve notificar o usuário quando sua mensagem foi curtida ou respondida.    | ALTA|
+|RF-003| O software deve permitir que o usuário crie mensagem utilizando o nome de usuário (nick-name)   | BAIXA|
+|RF-004|  O software deve permitir que o usuário exclua suas mensagens de texto.   | ALTA|
+|RF-005|O software deve permitir mais informações do filme   | ALTA|
+|RF-006|O software deve sugerir no mínimo 2 filmes de cada gênero (romance, terror, ficção científica, etc )    | ALTA|
+|RF-007|O software deve destacar os filmes mais vistos dos últimos tempos   | BAIXA|
+|RF-008|O software deve permitir que o usuário avalie o filme por estrelas   | MÉDIA|
+|RF-009|O software deve permitir a visualização do trailer e do poster  | ALTA|
+|RF-010|O software deve permitir que o usuário veja o nome da trilha sonora dos filmes  |ALTA|
 
 ### Requisitos não Funcionais
 

@@ -4,27 +4,15 @@
  Sendo assim, a trilha sonora integra com a própria narrativa cinematográfica. Isto é, se você mudar a trilha sonora de um filme, você basicamente está mudando o filme. Uma trilha sonora pode reiterar emoções, ela tem o poder de transcender o quadro do audiovisual; pode falar de coisas que não estão lá, ela pode negar, inclusive, o que a gente está vendo na tela e isso vai criando sentidos diversos. Deste modo, é possível afirmar que as trilhas sonoras compõem as emoções e as memórias enquanto assistimos a um filme. 
  Diante de tais análises, torna-se necessário uma ferramenta que auxilie os amantes de filmes a encontrar as trilhas sonoras dos filmes com mais facilidade.
 
+ 
+## Problema 
 
-## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Sabe quando você está ouvindo aquela música boa em um filme, mas não sabe o nome da música, nem quem está cantando, ou quando está passando aquele filme na TV e você quer comentar sobre o mesmo e ver o que outras pessoas pensam sobre ele.  Esse tem sido o problema de muitas pessoas nos dias atuais, pessoas querem saber os nomes das músicas, mas não conseguem localizar em suas plataformas de streaming. Esse problema está prestes a ser sanado pelo aplicativo MovieTune que ao menos sabendo o filme que está passando você terá acesso a todas as músicas da trilha sonora daquele filme.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+MovieTune tem como objetivo ser um App dedicado à busca de trilhas sonoras de filmes e séries. Os usuários podem classificar os filmes e séries através dos gostos pessoais e acompanhar as atualizações sobre lançamentos e notícias relacionadas a eles. Além de poderem avaliar e fazer resenhas sobre os títulos e interagir com outros usuários. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 

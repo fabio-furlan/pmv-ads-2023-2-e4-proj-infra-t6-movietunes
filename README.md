@@ -13,7 +13,7 @@ canção de Céline Dion .
 ## Integrantes
 
 * Josyane Luiza Cupertino de Oliveira
-*Nathália Liberato de Abreu
+* Nathália Liberato de Abreu
 * Rafael Pacheco Leite
 * Sávio Andrade Roquette
 * Thiago Henrique Pinto da Silva
